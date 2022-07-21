@@ -1,0 +1,18 @@
+1.Cryptography and Network Security       32   
+2.Machine Learning Techniques             37.33,32
+3.Software Engineering                    35
+4.System software and compiler design     35,37.33
+5.Web Technology                          29.33                     
+6.AI Principles and techniques            37.33        
+
+
+Lab
+1.Web Technology Lab              1,2,3,4,5,6,7,9,10
+2.SSCD Lab                        1,2,3,4,5,6,7,8,9,10 -9,10 
+3.Comprehensive practices lab     1,2,3,4,5,6
+
+
+
+Internship Completion
+
+   Alignment alone

@@ -1,0 +1,7 @@
+1.Data 	Structure videos.
+2.DBMS videos
+3.OOPS videos.
+4.Computer Networks Videos
+5.OS videos
+6.Algorithms videos
+7.Machine Learning.

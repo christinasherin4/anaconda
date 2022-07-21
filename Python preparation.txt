@@ -1,0 +1,9 @@
+1.Watch Python Youtube video
+2.Start referring geeks for geeks website.
+3.Start doing hackerrank questions.
+4.Start watching python Recently asked questions.
+
+
+
+Programms in Python
+1.Write a program to reverse an integer in python
